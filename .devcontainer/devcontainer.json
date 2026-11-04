@@ -1,0 +1,10 @@
+{
+  "name": "Vibe coding · page web",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-vscode.live-server", "GitHub.copilot", "GitHub.copilot-chat"],
+      "settings": { "editor.wordWrap": "on", "files.autoSave": "afterDelay" }
+    }
+  }
+}
